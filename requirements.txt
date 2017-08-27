@@ -10,4 +10,4 @@ itsdangerous==0.24        # via flask
 jinja2==2.9.6             # via flask
 markupsafe==1.0           # via jinja2
 werkzeug==0.12.2          # via flask
-youtube-dl==2017.8.23
+youtube-dl==2017.8.27.1
